@@ -1,0 +1,40 @@
+_repo: The-Travelling-Companionsa-Story-in-Scenes_37691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English wit and humor'
+- !lcsh 'Voyages and travels -- Humor'
+tableOfContents: Extremes meet -- Podbury picks up acquaintances -- Culchard comes
+  out of his shell -- Podbury is unpleasantly surprised -- Culchard has the best of
+  it -- Culchard makes a little miscalculation -- A dissolution of partnership --
+  Podbury finds consolation -- Culchard is rather too clever -- Podbury insists on
+  an explanation -- Courtship according to Mr. Ruskin -- Culchard descends from the
+  clouds -- On revient toujours -- Miss Banquo -- Culchard comes out nobly -- Culchard
+  feels slightly uncomfortable -- Culchard cannot be "happy with either" -- A suspension
+  of hostilities -- Crumpled roseleaves -- Put not your faith in fidibus -- Wearing
+  rue with a difference -- One man's meat; another man's poison -- Pearls and pigs
+  -- The pilgrims of love -- Journeys end in lovers' meeting -- Podbury kisses the
+  rod.
+title: 'The Travelling Companions: A Story in Scenes'
+url: http://www.gutenberg.org/ebooks/37691
